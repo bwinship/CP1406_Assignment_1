@@ -4,13 +4,15 @@ image {
     text-align: left;
 }
 #header {
-    background-color: #90A41B;
-    border-color: #000000;
-    font-style: italic;
+	background-color: #90A41B;
+	border-color: #000000;
+	font-style: italic;
+	text-align: center;
 }
 #nav {
-    border-color: #000000;
-    background-color: #FFFFFF;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	text-align: center;
 }
 #body {
     background-color: #90A41B;
@@ -20,4 +22,7 @@ image {
 }
 #button {
     border-color: #000000;
+}
+#centre_text {
+	text-align: center;
 }
