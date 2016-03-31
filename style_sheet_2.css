@@ -1,0 +1,56 @@
+@charset "utf-8";
+#steve_rogers_img {
+	float: left;
+	width: 268px;
+	height: 192px;
+	padding-right: 10px;
+}
+#sally_rogers_img {
+	width: 268px;
+	height: 192px;
+	float: right;
+	padding-left: 10px;
+}
+#book_fair {
+	width: 268px;
+	height: 192px;
+	float: left;
+	padding-right: 10px;
+}
+#spiderman_in_nature {
+	width: 268px;
+	height: 192px;
+	float: left;
+	padding-right: 10px;
+}
+#party {
+	width: 268px;
+	height: 192px;
+	padding-left: 10px;
+	float: right;
+}
+#alice_in_wonderland {
+	width: 300px;
+	height: 300px;
+	float: right;
+}
+#winter_kingdom {
+	width: 300px;
+	height: 450px;
+	float: left;
+}
+
+#boromir {
+	width: 268px;
+	float: right;
+}
+#sewing_hands {
+	float: right;
+	width: 500px;
+}
+#we_are_rabbits {
+	width: 268px;
+	height: 192px;
+	float: right;
+	padding-left: 10px;
+}
