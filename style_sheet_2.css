@@ -4,12 +4,14 @@
 	width: 268px;
 	height: 192px;
 	padding-right: 10px;
+	margin-left: 10px;
 }
 #sally_rogers_img {
 	width: 268px;
 	height: 192px;
 	float: right;
 	padding-left: 10px;
+	margin-right: 10px;
 }
 #book_fair {
 	width: 268px;
@@ -22,35 +24,32 @@
 	height: 192px;
 	float: left;
 	padding-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
 }
 #party {
 	width: 268px;
 	height: 192px;
 	padding-left: 10px;
 	float: right;
+	margin-right: 10px;
 }
 #alice_in_wonderland {
 	width: 300px;
 	height: 300px;
 	float: right;
-}
-#winter_kingdom {
-	width: 300px;
-	height: 450px;
-	float: left;
-}
-
-#boromir {
-	width: 268px;
-	float: right;
+	margin-right: 10px;
 }
 #sewing_hands {
 	float: right;
 	width: 500px;
+	margin-right: 10px;
 }
 #we_are_rabbits {
 	width: 268px;
 	height: 192px;
 	float: right;
 	padding-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
 }

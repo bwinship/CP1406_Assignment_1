@@ -1,7 +1,6 @@
 @charset "utf-8";
 #header {
 	background-color: #90A41B;
-	border: medium solid #000000;
 	font-style: italic;
 	text-align: center;
 	padding-right: 10px;
@@ -16,10 +15,12 @@
 	margin-right: 200px;
 	-webkit-box-shadow: 0px 0px;
 	box-shadow: 0px 0px;
+	background-color: #000000;
+	bottom: 1000px;
 }
 #table {
-	border: thick solid #000000;
 	background-color: #90A41B;
+	margin-left: 10px;
 }
 
 
@@ -48,13 +49,29 @@
 #call_to_action {
 	text-align: center;
 	border: thick solid #000000;
-	background-color: #BED828;
+	background-color: #59FF00;
 	font-weight: bold;
-	border-bottom-right-radius: 300px 300px;
+	border-radius: 300px;
+	margin-left: 350px;
+	margin-right: 350px;
 }
 
 
 #main_headings {
 	text-align: left;
 	font-style: italic;
+	margin-left: 10px;
+}
+#main_content_section {
+	background-color: #FFFFFF;
+}
+#footer {
+	background-color: #90A41B;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+}
+#paragraph {
+	margin-left: 12px;
+	margin-right: 10px;
 }
